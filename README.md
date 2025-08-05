@@ -1,2 +1,2 @@
-# Daily-Python
+# Daily-Java\
 Consistency Test
